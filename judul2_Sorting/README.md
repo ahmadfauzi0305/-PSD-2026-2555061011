@@ -28,8 +28,6 @@ Cara Kerja
 1. Program membandingkan dua data yang bersebelahan.
 2. Jika jumlah gol pemain pertama lebih kecil dari pemain kedua, maka kedua data akan ditukar.
 3. Proses ini dilakukan berulang sampai semua data terurut dari **gol terbanyak ke gol paling sedikit**.
-
-### Penjelasan
 Karena program menggunakan dua list (`nama_pemain` dan `jumlah_gol`), maka saat jumlah gol ditukar, nama pemain juga harus ditukar agar data tetap sesuai.
 
 ---
