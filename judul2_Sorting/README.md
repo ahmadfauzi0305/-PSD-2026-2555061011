@@ -41,7 +41,7 @@ Fungsi ini digunakan untuk menampilkan data pemain yang sudah diurutkan.
 
 ## Alur Program Utama
 
-1. Program meminta pengguna memasukkan **jumlah pemain**.
+1. Program meminta pengguna memasukkan jumlah pemain.
 2. Program melakukan perulangan sebanyak jumlah pemain.
 3. Pengguna diminta memasukkan:
    - Nama pemain
@@ -51,3 +51,15 @@ Fungsi ini digunakan untuk menampilkan data pemain yang sudah diurutkan.
    - `jumlah_gol`
 5. Program menjalankan fungsi Bubble Sort untuk mengurutkan data berdasarkan jumlah gol.
 6. Program menampilkan daftar pemain yang sudah diurutkan.
+<br></br>
+
+## Output Program
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/7609ec4b-3abe-437a-adea-8e80e64657ff" />
+
+Output dari program ini adalah nama nama pemain bola yang telah diurutkan berdasarkan jumlah gol terbanyak. Setelah itu pengguna memasukkan nama pemain dan jumlah gol, program akan memproses data tersebut menggunakan algoritma Bubble Sort.
+Hasilnya akan ditampilkan dalam bentuk daftar peringkat, yang di mana pemain dengan jumlah gol paling banyak berada di urutan pertama, diikuti pemain dengan jumlah gol yang lebih sedikit seperti yang ada di contoh gambar output
+<br></br>
+
+## Link Youtube
+
+
