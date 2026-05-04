@@ -1,6 +1,11 @@
 # Program Mengurutkan Pemain Bola Berdasarkan Jumlah Gol Dengan Metode Bubble Sort
 <br></br>
 
+## Source Code
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/4d3fdb70-55f5-476e-83df-d5c41a020b55" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/ce055fd4-da7c-48ab-86db-3a04b80bc44e" />
+<br></br>
+
 ## Penjelasan Program
 
 Program ini merupakan program sederhana menggunakan bahasa pemrograman Python yang berfungsi untuk mengelola data pemain bola berdasarkan jumlah gol yang dicetak. Pengguna diminta untuk memasukkan jumlah pemain, nama pemain, serta jumlah gol yang dicetak oleh masing-masing pemain. Program juga dilengkapi dengan validasi input, sehingga jika pengguna memasukkan data yang tidak sesuai (misalnya memasukkan huruf ketika diminta angka atau sebaliknya), program tidak akan berhenti dan akan meminta input ulang sampai data yang dimasukkan benar.
