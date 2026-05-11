@@ -4,6 +4,8 @@
 Program ini dibuat untuk mencari nama kontak dalam sebuah daftar kontak. Program menerapkan algoritma Sequential Search, yaitu metode pencarian yang dilakukan dengan memeriksa setiap data secara berurutan dari awal hingga akhir. Data kontak disimpan dalam sebuah list yang berisi beberapa dictionary, dimana setiap data memiliki atribut nama dan nomor telepon. Saat program dijalankan, pengguna diminta memasukkan nama kontak yang ingin dicari. Program kemudian akan memeriksa setiap kontak dalam daftar menggunakan perulangan dan membandingkannya dengan nama yang dimasukkan pengguna. Jika kontak ditemukan, program akan menampilkan nama dan nomor teleponnya serta menghitung jumlah kemunculan kontak tersebut. Jika tidak ditemukan, program akan menampilkan pesan bahwa kontak yang dicari tidak ada dalam daftar.
 <br></br>
 ## Source Code
+<img width="1181" height="797" alt="Screenshot 2026-05-11 111347" src="https://github.com/user-attachments/assets/16adeb4b-eee3-4dbe-8c3e-228d8f01cda2" />
+<img width="996" height="417" alt="Screenshot 2026-05-11 111409" src="https://github.com/user-attachments/assets/337cc258-632b-4ce3-9865-66732b6e8c5b" />
 <br></br>
 ## Penjelasan Code
 ### 1. Fungsi `sequential_search()`
@@ -28,7 +30,9 @@ Fungsi `main()` merupakan fungsi utama yang mengatur jalannya program secara kes
 - Program memanggil fungsi `sequential_search()` untuk melakukan proses pencarian kontak.
 - Setelah fungsi selesai dijalankan, program akan menampilkan hasil pencarian yaitu Jika kontak ditemukan, program menampilkan jumlah kontak yang ditemukan dan Jika tidak ditemukan, program menampilkan pesan bahwa kontak tidak ditemukan.
 <br></br>
-
+## Source Output
+<img width="521" height="332" alt="Screenshot 2026-05-11 113100" src="https://github.com/user-attachments/assets/c6d2235a-022a-4412-956e-2f8d361b2a14" />
+<br></br>
 ## Penjelasan Output
 ## Link Youtube
 ## Link Rumus
