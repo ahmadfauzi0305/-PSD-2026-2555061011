@@ -38,3 +38,8 @@ Program akan menampilkan daftar kontak yang berisi nama dan nomor telepon yang t
 ## Link Youtube
 https://youtu.be/xCY5YTz5bLQ?si=0lGb6_EQfjPMfHMU
 ## Tugas Kertas
+<img width="882" height="651" alt="Screenshot 2026-05-11 203343" src="https://github.com/user-attachments/assets/07ab9af6-c5d2-4e0f-8c2f-267e5e30dd8a" />
+
+
+
+
