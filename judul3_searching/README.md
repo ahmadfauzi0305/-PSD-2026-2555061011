@@ -1,7 +1,7 @@
 # Program Mencari Nama di Kontak Handphone Dengan Menggunakan Sequential Search
 <br></br>
 ## Penjelasan Program
-Program ini dibuat untuk mencari nama kontak dalam sebuah daftar kontak. Program menerapkan algoritma Sequential Search, yaitu metode pencarian yang dilakukan dengan memeriksa setiap data secara berurutan dari awal hingga akhir. Data kontak disimpan dalam sebuah list yang berisi beberapa dictionary, dimana setiap data memiliki atribut nama dan nomor telepon. Saat program dijalankan, pengguna diminta memasukkan nama kontak yang ingin dicari. Program kemudian akan memeriksa setiap kontak dalam daftar menggunakan perulangan dan membandingkannya dengan nama yang dimasukkan pengguna. Jika kontak ditemukan, program akan menampilkan nama dan nomor teleponnya serta menghitung jumlah kemunculan kontak tersebut. Jika tidak ditemukan, program akan menampilkan pesan bahwa kontak yang dicari tidak ada dalam daftar.
+Program ini dibuat untuk mencari nama kontak dalam sebuah daftar kontak. Program menerapkan algoritma Sequential Search, yaitu metode pencarian yang dilakukan dengan cara memeriksa setiap data secara berurutan dari awal hingga akhir.lalu data kontak disimpan dalam sebuah list yang berisi beberapa dictionary, yang dimana setiap data itu memiliki atribut nama dan nomor telepon. Saat program dijalankan, pengguna diminta memasukkan nama kontak yang pengen dicari. Program kemudian akan memeriksa setiap kontak di dalam daftar menggunakan perulangan dan membandingkannya dengan nama yang dimasukkan pengguna. Jika kontak ditemukan, program akan menampilkan nama dan nomor teleponnya serta menghitung jumlah kemunculan kontak tersebut. Jika tidak ditemukan, program akan menampilkan pesan bahwa kontak yang dicari tidak ada dalam daftar.
 <br></br>
 ## Source Code
 <img width="1181" height="797" alt="Screenshot 2026-05-11 111347" src="https://github.com/user-attachments/assets/16adeb4b-eee3-4dbe-8c3e-228d8f01cda2" />
@@ -32,7 +32,8 @@ Fungsi `main()` merupakan fungsi utama yang mengatur jalannya program secara kes
 <br></br>
 ## Source Output
 <img width="521" height="332" alt="Screenshot 2026-05-11 113100" src="https://github.com/user-attachments/assets/c6d2235a-022a-4412-956e-2f8d361b2a14" />
+Program akan menampilkan daftar kontak yang berisi nama dan nomor telepon yang tersimpan di dalam variabel kontak. Setelah itu, pengguna diminta memasukkan nama kontak yang ingin dicari melalui input. Program kemudian melakukan pencarian menggunakan metode sequential search, yaitu memeriksa setiap data kontak dari awal hingga akhir. Jika nama yang dicari ditemukan, program akan menampilkan nama dan nomor kontak tersebut serta jumlah berapa kali nama tersebut ditemukan. Jika tidak ada yang cocok, program akan menampilkan pesan bahwa kontak tidak ditemukan.
 <br></br>
-## Penjelasan Output
+
 ## Link Youtube
-## Link Rumus
+## Link rumus
