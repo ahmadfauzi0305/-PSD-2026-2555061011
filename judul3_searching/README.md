@@ -36,4 +36,4 @@ Program akan menampilkan daftar kontak yang berisi nama dan nomor telepon yang t
 <br></br>
 
 ## Link Youtube
-## Link rumus
+https://youtu.be/xCY5YTz5bLQ?si=0lGb6_EQfjPMfHMU
